@@ -1,11 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Chidvilas</h1>
 
-<p align="center">
+<p>
 🎓 CSE-AIDS student at SASTRA University<br>
-💻 Passionate about Problem Solving and Clean Code<br>
-🚀 Consistently solving GeeksforGeeks POTD in C++<br>
-🧠 Always learning, always growing
+💡 Passionate about solving problems and improving every day<br>
+📚 Currently following Striver's A2Z DSA roadmap and practicing on LeetCode & GFG<br>
+🧑‍💻 Learning by doing, building consistency over time
 </p>
+
 
 ## 🌐 Socials
 
