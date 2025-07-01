@@ -1,6 +1,11 @@
 # 💫 About Me:
-<h1 align="center">Hi there 👋, I'm Chidvilas</h1><br><br><p><br>  🎓 CSE-AIDS student at SASTRA University<br><br>  💻 Passionate about Problem Solving and Clean Code<br><br>  🚀 Consistently solving GeeksforGeeks POTD in C++<br><br>  🧠 Always learning, always growing<br></p><br>
-
+<h1 align="center">Hi there 👋, I'm Chidvilas</h1>
+<p align="center">
+🎓 CSE-AIDS student at SASTRA University<br>
+💻 Passionate about Problem Solving and Clean Code<br>
+🚀 Consistently solving GeeksforGeeks POTD in C++<br>
+🧠 Always learning, always growing
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chidvi__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chidvilas-palarpa-5aa163287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palarpachidvilas2419@gmail.com) 
