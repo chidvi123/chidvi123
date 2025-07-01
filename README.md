@@ -7,7 +7,6 @@
 🧑‍💻 Learning by doing, building consistency over time
 </p>
 
-
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chidvi__) 
@@ -25,17 +24,17 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chidvi123&theme=tokyonight&hide_border=false"/>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chidvi123&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidvi123&theme=tokyonight&hide_border=false&layout=compact" height="180px"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chidvi123&theme=tokyonight&hide_border=false"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
