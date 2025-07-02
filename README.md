@@ -3,7 +3,6 @@
 <p>
 🎓 CSE-AIDS student at SASTRA University<br>
 💡 Passionate about solving problems and improving every day<br>
-📚 Currently following Striver's A2Z DSA roadmap and practicing on LeetCode & GFG<br>
 🧑‍💻 Learning by doing, building consistency over time
 </p>
 
