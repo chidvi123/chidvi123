@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Chidvilas</h1>
 
 <p>
-🎓 CSE-AIDS student at SASTRA  University<br>
+🎓 CSE-AIDS student at SASTRA DEEMED University<br>
 💡 Passionate about solving problems and improving every day<br>
 🧑‍💻 Learning by doing, building consistency over time
 </p>
